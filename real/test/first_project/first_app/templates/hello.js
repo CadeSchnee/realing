@@ -1,1 +1,1 @@
-console.log("helyou are a fucking loserlo");
+console.log("helaloserlo");
